@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/kreiling/kreiling-2024-9-12-10-36-43/:/
+ - /content/kreiling/kreiling-2024-9-12-10-36-43/metadata.json:/metadata.json
+ - /content/kreiling/kreiling-2024-9-12-10-36-43/redirects.json:/redirects.json
